@@ -1,0 +1,11 @@
+.progressTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+   
+}
+
+.progressInput{
+    width: 5rem;
+   
+}
